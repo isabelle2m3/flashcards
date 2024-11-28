@@ -34,7 +34,7 @@ body {
 }
 
 .cartao__conteudo h3 {
-    color: var(--text-color);
+    color: var(--text-color)#8B0000;
     border: 1px solid var(--text-color);
     text-align: left;
     padding: 0.5rem;
